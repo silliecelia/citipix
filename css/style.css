@@ -89,7 +89,7 @@ header {
   letter-spacing: 0;
 }
 
-#city-type {
+/*#city-type {
   color: #6b6b6c;
   font-size: 32px;
   background: #fff;
@@ -102,7 +102,7 @@ header {
   line-height: 72px;
   vertical-align: middle;
   font-weight: lighter;
-}
+}*/
 #submit-btn {
   background: #000;
   color: #fff;
